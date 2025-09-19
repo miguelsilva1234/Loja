@@ -2,6 +2,7 @@
     include 'cabecalho.php';
 ?>
 <body>
+    <link rel="stylesheet" href="style_cadastro.css">
     <div class="container">
         <h2>CADASTRO DE PRODUTOS</h2>
         <form action="inserir.php" method="POST">
